@@ -1,2 +1,2 @@
 # mini-rdbms
-web+db pressのrdbmsを途中まで作成した
+web+db pressのrdbmsを5章まで作成した
