@@ -1,2 +1,2 @@
 # mini-rdbms
-web+db pressのrdbms
+web+db pressのrdbmsを途中まで作成した
